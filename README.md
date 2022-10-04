@@ -1,6 +1,6 @@
 # About this repository
 
-This repository serves as frontend code that consumes data from APIs written in the [cb-backend-node repository](https://github.com/ajiteshchhatani/cb-backend-node).
+This repository serves as frontend code that consumes data from APIs written in the [cb-backend-node](https://github.com/ajiteshchhatani/cb-backend-node) repository.
 
 ## Steps to setup and run locally
 
